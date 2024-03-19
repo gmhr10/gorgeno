@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<odoo>
+    <record id="groups_restrict_pos_create_customer" model="res.groups">
+        <field name="name">Restrict Pos Create Customer</field>
+    </record>
+</odoo>
